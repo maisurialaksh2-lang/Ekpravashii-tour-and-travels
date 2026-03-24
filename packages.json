@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "location": "Leh Ladakh",
+    "title": "High-altitude desert and blue lakes.",
+    "price": 24000,
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800"
+  },
+  {
+    "id": 2,
+    "location": "Varanasi, UP",
+    "title": "Spiritual heart of India on the Ganges.",
+    "price": 6500,
+    "image": "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800"
+  },
+  {
+    "id": 3,
+    "location": "Munnar, Kerala",
+    "title": "Rolling tea gardens and misty hills.",
+    "price": 9999,
+    "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800"
+  },
+  {
+    "id": 4,
+    "location": "Kerala",
+    "title": "Tranquil backwaters and lush tea gardens.",
+    "price": 15499,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "location": "Sikkim",
+    "title": "Majestic Kanchenjunga views and monasteries.",
+    "price": 14500,
+    "image": "https://sikkimtourism.org/wp-content/uploads/2022/06/Nathula-PAss-550x500.jpg"
+  },
+  {
+    "id": 6,
+    "location": "Switzerland",
+    "title": "The peak of luxury in the heart of the Alps.",
+    "price": 125000,
+    "image": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "location": "Vietnam",
+    "title": "Stunning limestone pillars and emerald waters.",
+    "price": 45999,
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "location": "Bali",
+    "title": "Tropical paradise with lush green terraces.",
+    "price": 28999,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "location": "Spiti Valley, HP",
+    "title": "The \"Middle Land\" with ancient monasteries.",
+    "price": 15500,
+    "image": "https://static2.tripoto.com/media/filter/nl/img/379579/TripDocument/1491044184_1491044175297.jpg"
+  },
+  {
+    "id": 10,
+    "location": "Udaipur, Rajasthan",
+    "title": "The City of Lakes and royal palaces.",
+    "price": 11000,
+    "image": "https://media.gettyimages.com/id/709117875/photo/city-palace-udaipur-india.jpg?s=612x612&w=0&k=20&c=p6QAXe0H2L1mv5l-ymMi2Lr7yrXyflfhnRiMOhOl9JM="
+  },
+  {
+    "id": 11,
+    "location": "Andaman Islands",
+    "title": "Turquoise waters and white sand beaches.",
+    "price": 19500,
+    "image": "https://t3.ftcdn.net/jpg/07/70/42/66/360_F_770426640_scsDTCBpkQB9xJjLTRXGlmc5rbA917yh.jpg"
+  },
+  {
+    "id": 12,
+    "location": "Hampi, Karnataka",
+    "title": "UNESCO ruins of a lost empire.",
+    "price": 8500,
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/virupaksha-temple-hampi-karnataka-1-attr-nearby?qlt=82&ts=1726721690964"
+  },
+  {
+    "id": 13,
+    "location": "Shillong, Meghalaya",
+    "title": "The Scotland of the East and living bridges.",
+    "price": 13000,
+    "image": "https://static2.tripoto.com/media/filter/tst/img/10173/TripDocument/meghalaya.jpg.webp"
+  },
+  {
+    "id": 14,
+    "location": "Jaisalmer, Rajasthan",
+    "title": "The Golden City and desert safaris.",
+    "price": 10500,
+    "image": "https://thirdeyetraveller.com/wp-content/uploads/2018/01/IMG_0866-689x517.jpg"
+  },
+  {
+    "id": 15,
+    "location": "Auli, Uttarakhand",
+    "title": "India’s premier skiing destination.",
+    "price": 12000,
+    "image": "https://media.istockphoto.com/id/1292093399/photo/auli-uttarakhand.jpg?s=612x612&w=0&k=20&c=2pK3znyJUCZxJT3HydpNYhxhs0MkvsM5gmJLglMt-kU="
+  },
+  {
+    "id": 16,
+    "location": "Majuli, Assam",
+    "title": "World's largest river island & culture.",
+    "price": 11500,
+    "image": "https://t3.ftcdn.net/jpg/03/67/57/04/360_F_367570434_7lnOMrbyfN5O6wUW80DGxbrqLaueMTxJ.jpg"
+  },
+  {
+    "id": 17,
+    "location": "Kyoto, Japan",
+    "title": "Ancient temples and cherry blossoms.",
+    "price": 110000,
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800"
+  },
+  {
+    "id": 18,
+    "location": "Amalfi Coast, Italy",
+    "title": "Picturesque cliffs and luxury lifestyle.",
+    "price": 145000,
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800"
+  },
+  {
+    "id": 19,
+    "location": "Phuket, Thailand",
+    "title": "Exotic islands and vibrant nightlife.",
+    "price": 32000,
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800"
+  },
+  {
+    "id": 20,
+    "location": "Reykjavik, Iceland",
+    "title": "Northern Lights and volcanic lagoons.",
+    "price": 180000,
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800"
+  },
+  {
+    "id": 21,
+    "location": "Lucerne, Switzerland",
+    "title": "Alpine scenery and crystal clear lakes.",
+    "price": 165000,
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800"
+  },
+  {
+    "id": 22,
+    "location": "Ha Long Bay, Vietnam",
+    "title": "Emerald waters and limestone pillars.",
+    "price": 42000,
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800"
+  },
+  {
+    "id": 23,
+    "location": "Samarkand, Uzbekistan",
+    "title": "Stunning Silk Road architecture.",
+    "price": 55000,
+    "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?w=800"
+  },
+  {
+    "id": 24,
+    "location": "Paris, France",
+    "title": "The city of love and fine dining.",
+    "price": 120000,
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800"
+  },
+  {
+    "id": 25,
+    "location": "Santorini, Greece",
+    "title": "Blue-domed roofs and sunset views.",
+    "price": 155000,
+    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800"
+  },
+  {
+    "id": 26,
+    "location": "Paro, Bhutan",
+    "title": "The Land of the Thunder Dragon.",
+    "price": 40000,
+    "image": "https://images.trvl-media.com/place/6047174/1daab275-f839-48b3-b40a-95648a6c0ab2.jpg?impolicy=fcrop&w=1040&h=580&q=mediumHigh"
+  }
+]
